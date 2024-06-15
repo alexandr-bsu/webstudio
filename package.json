@@ -1,5 +1,5 @@
 {
-  "packageManager": "pnpm@9.0",
+  "packageManager": "pnpm@^9.0",
   "name": "webstudio-root",
   "version": "0.0.0",
   "private": true,
